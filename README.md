@@ -8,3 +8,14 @@ Linux builds of ffmpeg were created using https://github.com/markus-perl/ffmpeg-
 Windows builds of ffmpeg were created using https://github.com/rdp/ffmpeg-windows-build-helpers
 
 For instruction on how to build Handbrake for Windows consult https://handbrake.fr/docs/en/1.5.0/developer/build-windows.html
+
+-----------------
+
+Latest FFmpeg for Windows x64 with fdk:
+[FFmpeg 6 (Master-b1c3d81) Windows x64 with fdk](https://github.com/FT129/Handbrake-and-FFmpeg-with-fdk-aac/releases/tag/ffmpeg6-master-b1c3d81)
+
+Latest FFmpeg for Linux x64 with fdk:
+[FFMpeg 5.1.2 Linux with fdk](https://github.com/FT129/Handbrake-and-FFmpeg-with-fdk-aac/releases/tag/ffmpeg5.1.2Li)
+
+Latest Handbrake for Windows x64 with fdk:
+[Handbrake CLI and DLL with FDK 1.6.1](https://github.com/FT129/Handbrake-and-FFmpeg-with-fdk-aac/releases/tag/1.6.1)
