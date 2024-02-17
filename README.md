@@ -18,4 +18,4 @@ Latest FFmpeg for Linux x64 with fdk:
 [FFMpeg 5.1.2 Linux with fdk](https://github.com/FT129/Handbrake-and-FFmpeg-with-fdk-aac/releases/tag/ffmpeg5.1.2Li)
 
 Latest Handbrake for Windows x64 with fdk:
-[Handbrake CLI and DLL with FDK 1.7.2](https://github.com/FT129/Handbrake-and-FFmpeg-with-fdk-aac/releases/tag/1.7.2)
+[Handbrake CLI and DLL with FDK 1.7.3](https://github.com/FT129/Handbrake-and-FFmpeg-with-fdk-aac/releases/download/1.7.3/hb_1.7.3.zip)
