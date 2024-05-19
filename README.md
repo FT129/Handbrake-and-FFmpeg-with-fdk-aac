@@ -12,7 +12,7 @@ For instruction on how to build Handbrake for Windows consult https://handbrake.
 -----------------
 
 Latest FFmpeg for Windows x64 with fdk:
-[FFmpeg 7 (Master-a7e506fcd8) Windows x64 with fdk]([https://github.com/FT129/Handbrake-and-FFmpeg-with-fdk-aac/releases/tag/ffmpeg6-master-b1c3d81](https://github.com/FT129/Handbrake-and-FFmpeg-with-fdk-aac/releases/tag/ffmpeg7-Master-a7e506fcd8))
+[FFmpeg 7 (Master-a7e506fcd8) Windows x64 with fdk](https://github.com/FT129/Handbrake-and-FFmpeg-with-fdk-aac/releases/tag/ffmpeg7-Master-a7e506fcd8)
 
 Latest FFmpeg for Linux x64 with fdk:
 [FFMpeg 5.1.2 Linux with fdk](https://github.com/FT129/Handbrake-and-FFmpeg-with-fdk-aac/releases/tag/ffmpeg5.1.2Li)
