@@ -7,7 +7,7 @@ Linux builds of ffmpeg were created using https://github.com/markus-perl/ffmpeg-
 
 Windows builds of ffmpeg were created using https://github.com/rdp/ffmpeg-windows-build-helpers
 
-For instruction on how to build Handbrake for Windows consult https://handbrake.fr/docs/en/1.5.0/developer/build-windows.html
+For instruction on how to build Handbrake for Windows consult https://handbrake.fr/docs/en/1.9.0/developer/build-windows.html
 
 -----------------
 
